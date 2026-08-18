@@ -24,3 +24,7 @@ Apache 2.0 License (in <a href="https://github.com/asanaliopensource/artvibe.stu
 <h3>Local run:</h3>
 1. Clone the repository: <code>git clone https://github.com/asanaliopensource/artvibe.studio.git</code><br>
 2. If you see file "index.html" in you directory with my repository, run it double click and opened the browser.
+
+
+
+Edited: Sorry for error, idk how fix this bag (i set black but all in white)
